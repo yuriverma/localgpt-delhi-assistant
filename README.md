@@ -54,6 +54,8 @@ cd localgpt-delhi-assistant
 5. **Run Assistant**
    python3 app.py
 
+---
+
 ## 📁 Directory Structure
 localgpt-delhi-assistant/
 │
@@ -74,6 +76,7 @@ localgpt-delhi-assistant/
 │   ├── metro.txt (auto-generated)
 │   └── metro_routes.txt (auto-generated)
 
+---
 
 ## 🔮 Future Scope
 # 📱 Voice Assistant Integration
@@ -94,11 +97,17 @@ Feedback loop to improve embeddings based on user corrections.
 # 🌐 Web Interface
 Add a Streamlit or React dashboard with map-based metro routing.
 
+---
+
 ## 🤝 Contribution
 Pull requests are welcome! If you'd like to add more cities or new modules (auto-rickshaw, DTC bus planner, etc.), feel free to fork and submit a PR.
 
+---
+
 ## ⚠️ Disclaimer
 This tool is made for educational and offline experimentation purposes. All GTFS data belongs to respective authorities (like DMRC), and no API is used in real-time.
+
+---
 
 ## 🧔 Built by Yuri Verma
 
