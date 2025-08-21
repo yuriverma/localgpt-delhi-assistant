@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.env
+.venv/
+venv/
+*.db
+
+# VSCode & system
+.vscode/
+.DS_Store
+
+# Model & data
+*.bin
+*.pth
+*.ckpt
+*.pt
+*.pdf
+*.xlsx
+*.csv
+*.log
+data/food.txt
+data/metro.txt
+data/metro_routes.txt
+data/metro_gtfs/
+
+# Virtualenv
+.env/
+*.egg-info/
+
+data/
+venv/
+*.pyc
+__pycache__/
+

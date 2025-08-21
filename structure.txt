@@ -1,0 +1,83 @@
+.
+├── __pycache__
+│   ├── embedder.cpython-311.pyc
+│   └── embedder.cpython-313.pyc
+├── data
+│   ├── food.txt
+│   ├── metro_gtfs
+│   │   ├── agency.txt
+│   │   ├── calendar.txt
+│   │   ├── routes.txt
+│   │   ├── shapes.txt
+│   │   ├── stop_times.txt
+│   │   ├── stops.txt
+│   │   └── trips.txt
+│   └── metro_routes.txt
+├── embedder.py
+├── local_llm.py
+├── localgpt.py
+├── models
+│   └── mistral
+│       └── mistral-7b-instruct-v0.1.Q4_K_M.gguf
+├── requirements.txt
+├── startup.py
+├── structure.txt
+├── updater
+│   ├── __pycache__
+│   │   └── metro_scraper.cpython-313.pyc
+│   └── generate_metro_routes.py
+└── venv
+    ├── bin
+    │   ├── activate
+    │   ├── activate.csh
+    │   ├── activate.fish
+    │   ├── Activate.ps1
+    │   ├── chroma
+    │   ├── coloredlogs
+    │   ├── distro
+    │   ├── dotenv
+    │   ├── f2py
+    │   ├── httpx
+    │   ├── huggingface-cli
+    │   ├── humanfriendly
+    │   ├── isympy
+    │   ├── jsonschema
+    │   ├── markdown-it
+    │   ├── normalizer
+    │   ├── numpy-config
+    │   ├── onnxruntime_test
+    │   ├── pip
+    │   ├── pip3
+    │   ├── pip3.13
+    │   ├── pybase64
+    │   ├── pygmentize
+    │   ├── pyproject-build
+    │   ├── pyrsa-decrypt
+    │   ├── pyrsa-encrypt
+    │   ├── pyrsa-keygen
+    │   ├── pyrsa-priv2pub
+    │   ├── pyrsa-sign
+    │   ├── pyrsa-verify
+    │   ├── python -> python3.13
+    │   ├── python3 -> python3.13
+    │   ├── python3.13 -> /opt/homebrew/opt/python@3.13/bin/python3.13
+    │   ├── tiny-agents
+    │   ├── torchfrtrace
+    │   ├── torchrun
+    │   ├── tqdm
+    │   ├── transformers
+    │   ├── transformers-cli
+    │   ├── typer
+    │   ├── uvicorn
+    │   ├── watchfiles
+    │   ├── websockets
+    │   └── wsdump
+    ├── include
+    │   └── python3.13
+    ├── lib
+    │   └── python3.13
+    ├── pyvenv.cfg
+    └── share
+        └── man
+
+16 directories, 65 files
